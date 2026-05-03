@@ -1,0 +1,57 @@
+# =========================================================
+# Vivado generated files and directories
+# =========================================================
+
+# Project generated directories
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.sim/
+**/*.runs/
+**/*.gen/
+
+# Vivado temporary/log files
+**/*.jou
+**/*.log
+**/*.str
+**/*.backup.jou
+**/*.backup.log
+
+# Generated reports and checkpoints
+**/*.rpt
+**/*.dcp
+**/*.edf
+**/*.edif
+
+# Bitstream and programming files
+**/*.bit
+**/*.bin
+**/*.mcs
+**/*.ltx
+
+# Simulation generated files
+**/*.wdb
+**/*.vcd
+**/*.fst
+**/xsim.dir/
+
+# =========================================================
+# OS / Editor files
+# =========================================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# =========================================================
+# Optional: Vivado project files
+# =========================================================
+# .xpr 파일을 Git에 올리고 싶으면 아래 줄은 주석 처리 상태로 둔다.
+# .xpr까지 제외하고 TCL로만 프로젝트를 재생성하고 싶으면 주석을 해제한다.
+# **/*.xpr

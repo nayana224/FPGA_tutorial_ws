@@ -19,7 +19,6 @@
 
 # Generated reports and checkpoints
 **/*.rpt
-**/*.dcp
 **/*.edf
 **/*.edif
 
